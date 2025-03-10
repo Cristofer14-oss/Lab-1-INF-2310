@@ -1,71 +1,74 @@
-# Laboratorio #1
-
+# Laboratorio #1 (BANDIDO)
 ## Level 0
+```
+bandit0
+```
+## Level 1
 Se uso los codigos como ser: cat, ls , cd , cat , file , du , find
 ```
 ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 ```
-## Level 1
+## Level 2
 ```
 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
 ```
-## Level 2
+## Level 3
 ```
 MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
 ```
-## Level 3
+## Level 4
 ```
 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
 ```
-## Level 4
+## Level 5
 ```
 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
 ```
-## Level 5
+## Level 6
 ```
 HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
 ```
-## Level 6
+## Level 7
 ```
 morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
 ```
-## Level 7
+## Level 8
 ```
 dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
 ```
-## Level 8
+## Level 9
 ```
 4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
 ```
-## Level 9
+## Level 10
 ```
 FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
 ```
-## Level 10
+## Level 11
 ```
 dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
 ```
-## Level 11
+## Level 12
 ```
 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4
 ```
-## Level 12
+## Level 13
 ```
 FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn
 ```
-## Level 13
+## Level 14
 ```
 MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS
 ```
-## Level 14
+## Level 15
 ```
 8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo
 ```
-## Level 15
+## Level 16
 ```
 kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx
 ```
-## Level 16
+## Level 17
 ```
 -----BEGIN RSA PRIVATE KEY-----
 MIIEogIBAAKCAQEAvmOkuifmMg6HL2YPIOjon6iWfbp7c3jx34YkYWqUH57SUdyJ
@@ -95,79 +98,67 @@ dxviW8+TFVEBl1O4f7HVm6EpTscdDxU+bCXWkfjuRb7Dy9GOtt9JPsX8MBTakzh3
 vBgsyi/sN3RqRBcGU40fOoZyfAMT8s1m/uYv52O6IgeuZ/ujbjY=
 -----END RSA PRIVATE KEY-----
 ```
-## Level 17
+## Level 18
 ```
 x2gLTTjFwMOhQ8oWNbMN362QKxfRqGlO
 ```
-## Level 18
+## Level 19
 ```
 cGWpMaKXVwDUNgPAVJbWYuGHVn9zl3j8
 ```
-## Level 19
+## Level 20
 ```
 0qXahG8ZjOVMN9Ghs7iOWsCfZyXOUbYO
 ```
-## Level 20
+## Level 21
 ```
 EeoULMCra2q0dSkYj561DX7s1CpBuOBt
 ```
-## Level 21
+## Level 22
 ```
 tRae0UfB9v0UzbCdn9cY0gQnds9GF58Q
 ```
-## Level 22
+## Level 23
 ```
 0Zf11ioIjMVN551jX3CmStKLYqjk54Ga
 ```
-## Level 23
+## Level 24
 ```
 gb8KRRCsshuZXI0tUuR6ypOFjiZbf3G8
 ```
-## Level 24
+## Level 25
 ```
 iCi86ttT4KSNe1armKiwbQNmB3YJP3q4
 ```
-## Level 25
+## Level 26
 ```
 s0773xxkk0MXfdqOfPRVr9L3jJBUOgCZ
 ```
-## Level 26
+## Level 27
 ```
 upsNCc7vzaRDx6oZC6GiR6ERwe1MowGB
 ```
-## Level 27
+## Level 28
 ```
 Yz9IpL0sBcCeuG7m9uQFt8ZNpS4HZRcN
 ```
-## Level 28
+## Level 29
 ```
 4pT1t5DENaYuqnqvadYs1oE4QLCdjmJ7
 ```
-## Level 29
+## Level 30
 ```
 qp30ex3VLz5MDG1n91YowTv4Q8l7CDZL
 ```
-## Level 30
+## Level 31
 ```
 fb5S2xb7bRyFmAvQYQGEqsbhVyJqhnDy
 ```
-## Level 31
+## Level 32
 ```
 3O9RfhqyAlVBEZpVb6LYStshZoqoSx5K
 ```
-## Level 32
-```
-tQdtbs5D5i2vJwkO8mEyYEyTL8izoeJ0
-```
 ## Level 33
 ```
-
-```
-## Level 34
-```
-
-```
-## Level 35
-```
-
+tQdtbs5D5i2vJwkO8mEyYEyTL8izoeJ0
 ```
